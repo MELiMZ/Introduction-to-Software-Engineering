@@ -1,5 +1,9 @@
 张海藩版本 软件工程导论教材 简洁考试重点
 
+xmind版本更优
+<img width="902" alt="图片" src="https://github.com/MELiMZ/Introduction-to-Software-Engineering/assets/124431886/4c38e595-5b59-4516-887b-c70713d6e228">
+
+
 软件危机
 	软件危机概念
 		是指在计算机软件的开发和维护过程中所遇到的一系列严重问题
