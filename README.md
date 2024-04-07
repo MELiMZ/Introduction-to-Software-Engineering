@@ -1,6 +1,6 @@
 张海藩版本 软件工程导论教材 简洁考试重点
 
-xmind版本更优
+xmind版本更好
 <img width="902" alt="图片" src="https://github.com/MELiMZ/Introduction-to-Software-Engineering/assets/124431886/4c38e595-5b59-4516-887b-c70713d6e228">
 
 
